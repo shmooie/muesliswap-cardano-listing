@@ -1,0 +1,9 @@
+{
+    "policyId": "4d02e9fecc262a72426aab85a70ae09167309b8d0f1bd98a9e78eb7e",
+    "name": "SCHRUTE BUCKS", 
+    "symbol": "SBUX", 
+    "website": "N/A", 
+    "description": "Dunder Mifflin Scranton, Regional Manager Motivational Tool",
+    "totalSupply": 10000000000000,
+    "amounts": [1000000,20000000, 50000000, 100000000, 200000000, 500000000, 1000000000, 10000000000]
+}
